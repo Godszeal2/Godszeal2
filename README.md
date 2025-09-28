@@ -74,7 +74,7 @@ function godsZeal(developer) {
 
 - Twitter: [@me](https://twitter.com/your_twitter)
 - LinkedIn: [Me](https://linkedin.com/in/)
-- Email: [godszealtech@gmail.com](mailto: godszealtech@gmail.com
+- Email: [godszealtech@gmail.com](mailto: godszealtech@gmail.com)
 ---
 
 <p align="center">
