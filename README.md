@@ -72,10 +72,9 @@ function godsZeal(developer) {
 
 ## 📫 Let's Connect!
 
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- LinkedIn: [your_linkedin](https://linkedin.com/in/your_linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-
+- Twitter: [@me](https://twitter.com/your_twitter)
+- LinkedIn: [Me](https://linkedin.com/in/)
+- Email: [godszealtech@gmail.com]mailto: godszealtech@gmail.com
 ---
 
 <p align="center">
